@@ -5,7 +5,7 @@
 	"version": "0.1",
 	"background": {
 		"scripts": ["background/background.js"],
-		"persistent" : false
+		"persistent" : true
 	},
 	"icons": {
 		"19": "images/cat-icon-16.png",
@@ -20,8 +20,8 @@
 	"permissions": [
 		"background",
 		"tabs",
-		"activeTab",
-		"http://*/*",
-		"https://*/*"
+		"webRequest",
+		"webRequestBlocking",
+		"*://*.facebook.com/"
 	]
 }
