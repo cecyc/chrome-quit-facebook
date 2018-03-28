@@ -1,0 +1,45 @@
+body {
+    background: lightcyan;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+h1, h2, p {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+a:link, a:visited {
+    color: #04859a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.container {
+    background: white;
+    border: 2px solid #68dafd;
+    padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.q {
+    color: #04859a;
+}
