@@ -6,3 +6,5 @@ You can find it in the chrome store.
 
 
 Made with 😻 by [Cecy Correa](http://cecycorrea.com/)
+
+Icons from [flaticons](https://www.flaticon.com/free-icon/cat_616430)
