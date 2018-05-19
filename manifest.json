@@ -8,13 +8,11 @@
 		"persistent" : true
 	},
 	"icons": {
-		"19": "images/cat-icon-16.png",
-		"48": "images/cat-icon-48.png",
-		"128": "images/cat-icon-128.png"
+		"19": "images/cat-icon.png"
 	},
 	"browser_action": {
 		"default_title": "Cats Help You Quit Social",
-		"default_icon": "images/cat-icon-48.png"
+		"default_icon": "images/cat-icon.png"
 	},
 	"options_page": "options/options.html",
 	"permissions": [
