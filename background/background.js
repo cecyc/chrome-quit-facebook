@@ -22,6 +22,6 @@ chrome.webRequest.onBeforeRequest.addListener(
 		let url = getUrl()
         return {redirectUrl: url}
     },
-    {urls: ["*://www.facebook.com/*", "*://facebook.com/*"]},
+    {urls: ["*://www.facebook.com/*", "*://facebook.com/*", "*://www.twitter.com/*", "*://twitter.com/*"]},
     ["blocking"]
 )
