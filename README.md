@@ -1,3 +1,9 @@
+## This project has been archived
+
+Maintaining a Chrome extension was much more work than I had the time to do, so this has been archived. I may get back to this when I have more time to maintain.
+
+---
+
 # Quit Social Chrome Extension
 
 Simple Chrome extension that helps you quit social media by redirecting requests to Facebook or Twitter to cute cat videos instead.
